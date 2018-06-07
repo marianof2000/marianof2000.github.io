@@ -1,2 +1,2 @@
-# marianof2000.github.io
-# Mi sitio web
+# web
+Repositorio de código con ejemplo de página web sencilla pero eficaz.
